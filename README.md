@@ -1,6 +1,6 @@
 # 黃偉豪 Huang Wei-Hao
 
-高雄市立楠梓特殊學校啟明巡迴教師，開發視覺障礙教育相關的網頁工具與 NVDA 附加元件。  
+高雄市立楠梓特殊學校視障巡迴教師，開發視覺障礙教育相關的網頁工具與 NVDA 附加元件。  
 Itinerant teacher for students with visual impairments in Kaohsiung, Taiwan.
 Building web-based assistive tools and NVDA add-ons for braille education.
 
