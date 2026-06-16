@@ -21,6 +21,7 @@ Browser-based tools for creating teaching materials: braille translation, back-t
 | [zhDict](https://github.com/hurthuang/zhDict) | 國語字典查詢 |
 | [brailleTableSwitcher](https://github.com/hurthuang/NVDA-brailleTableSwitcher) | 點字表快速切換 |
 | [brailleExport](https://github.com/hurthuang/NVDA-brailleExport) | 點字輸出匯出 |
+| [metecBD](https://github.com/hurthuang/metecBD-nvda-addon) | metecBD 顯示器驅動 |
 
 ---
 
