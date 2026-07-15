@@ -23,6 +23,8 @@ Browser-based tools for creating teaching materials: braille translation, back-t
 | [brailleExport](https://github.com/hurthuang/NVDA-brailleExport) | 點字輸出匯出 |
 | [metecBD](https://github.com/hurthuang/metecBD-nvda-addon) | metecBD 顯示器驅動 |
 
+**[英文單字測驗](https://hurthuang.github.io/en-voc/)**
+
 ---
 
 🌐 [視覺障礙輔助科技筆記本](https://class.kh.edu.tw/19061) — 點字規則、教學參考資料  
