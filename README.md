@@ -9,7 +9,7 @@ Building web-based assistive tools and NVDA add-ons for braille education.
 ## 專案 Projects
 
 **[vi-tools](https://hurthuang.github.io/vi-tools/)** — 視障輔助工具集  
-供教師製作教材的瀏覽器端工具：文字轉點字、點字轉文字、數學點字（Nemeth）、文件整理、UEB G2 查詢、點字輸入。  
+供教師製作教材的瀏覽器端工具：文字轉點字、點字轉文字、數學點字（Nemeth）、文件整理、UEB G2 查詢、[點字輸入](https://hurthuang.github.io/vi-tools/braille-input.html)。  
 Browser-based tools for creating teaching materials: braille translation, back-translation, Nemeth math, document processing, UEB G2 lookup, braille input.
 
 **NVDA 附加元件 Add-ons**
